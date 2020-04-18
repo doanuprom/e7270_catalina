@@ -1,3 +1,2 @@
 # e7270_catalina
-Share EFI forder for Dell E7270 catalina
-Name partition install Hackkingtion is MAC as same my config.plist
+Collection EFI foder for Dell E7250 E7270 E7470 mine and https://osxlatitude.com/
